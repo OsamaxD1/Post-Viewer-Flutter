@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "776689328399",
+    "firebase_url": "https://imageviewerflutter.firebaseio.com",
+    "project_id": "imageviewerflutter",
+    "storage_bucket": "imageviewerflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776689328399:android:4a8777123d230d0ef71e7a",
+        "android_client_info": {
+          "package_name": "com.example.imageflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776689328399-23kpifgbs4lgmhggj8tc0e5n5td7t8a7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK31cy-480x59bqmAk7xeCfRc3w8JTAlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776689328399-23kpifgbs4lgmhggj8tc0e5n5td7t8a7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
